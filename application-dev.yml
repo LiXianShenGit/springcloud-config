@@ -1,2 +1,2 @@
-server:
-  port: 18097
+spring:
+  info: 18097
